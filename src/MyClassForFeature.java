@@ -1,5 +1,7 @@
 public class MyClassForFeature {
     public static void main(String[] args) {
+        String text = "TextASDASD";
+
         String text = "TESTanothertxt";
 
     }
